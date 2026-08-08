@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/realgamingteast/test/issues"
   },
-  "homepage": "https://github.com/realgamingteast/test#readme"
+  "homepage": "https://github.com/realgamingteast/test#readme",
+  "dependencies": {
+    "jest": "^30.4.2"
+  }
 }

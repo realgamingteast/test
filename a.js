@@ -1,3 +1,1 @@
-function a() {
-    console.log("ayo")
-}
+console.log("ayto")
